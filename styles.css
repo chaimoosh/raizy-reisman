@@ -4,10 +4,26 @@ body {
 
 .title {
   background-color: #446379;
+  color: #A0ABB2;
+  margin-bottom: 0px;
 }
 
 .center {
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-align: center;
   font-size: 20px;
   background-color: #b0d8ad;
+  color: #446379;
+  line-height: 2;
+}
+
+.instagram {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 20px;
+  background-color: #b0d8ad;
+  color: #446379;
+  bottom: 0px;
 }
