@@ -25,5 +25,7 @@ body {
   font-size: 20px;
   background-color: #b0d8ad;
   color: #446379;
-  bottom: 0px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
 }
