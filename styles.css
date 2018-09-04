@@ -27,6 +27,6 @@ body {
   background-color: #b0d8ad;
   color: #446379;
   width: 100%;
-  position: absolute;
+  /*position: absolute;*/
   bottom: 0;
 }
