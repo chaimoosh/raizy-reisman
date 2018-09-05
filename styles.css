@@ -17,6 +17,8 @@ body {
   color: #446379;
   line-height: 2;
   width: 100%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .instagram {
@@ -29,4 +31,5 @@ body {
   width: 100%;
   /*position: absolute;*/
   bottom: 0;
+  margin-right: auto;
 }
